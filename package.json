@@ -1,0 +1,20 @@
+{
+  "name": "ai-cup",
+  "version": "1.0.0",
+  "description": "An implementation of the traveling salesman problem in javascript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "tsp",
+    "ai"
+  ],
+  "author": "Lorenzo Ferri",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "random-seed": "^0.3.0"
+  }
+}
